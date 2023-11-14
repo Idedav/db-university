@@ -16,3 +16,6 @@ Dopo aver creato un nuovo database nel vostro phpMyAdmin e aver importato lo sch
 Cosa consegnare? Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file txt e caricatelo nella vostra repo.
 BONUS
 Risolvere le query con GROUP BY
+
+Utilizzando lo stesso database di ieri, eseguite le query in allegato.
+Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
